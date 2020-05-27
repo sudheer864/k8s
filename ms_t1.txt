@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-HI Sudheer
-=======
-Hi Sudheer
->>>>>>> spicy
